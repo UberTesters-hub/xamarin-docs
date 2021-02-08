@@ -13,7 +13,7 @@ ms.date: 03/19/2017
 
 _TestFlight is now owned by Apple, and is the primary way to beta test your Xamarin.iOS apps. This article will guide you through all steps of the TestFlight Process – from uploading your app, to working with iTunes Connect._
 
-Beta testing is an integral part of the software development cycle, and there are many cross-platform applications offering to streamline this process such as [HockeyApp](https://hockeyapp.net/features/), [Applause](https://www.applause.com/mobile-app-testing), and of course Google Play’s Native App Beta Testing for Android apps. This document focuses on Apple’s TestFlight.
+Beta testing is an integral part of the software development cycle, and there are many cross-platform applications offering to streamline this process such as [HockeyApp](https://hockeyapp.net/features/), [Applause](https://www.applause.com/mobile-app-testing), [Ubertesters](https://ubertesters.com/mobile-app-testing-tool)and of course Google Play’s Native App Beta Testing for Android apps. This document focuses on Apple’s TestFlight.
 
 TestFlight is Apple’s beta testing service for iOS apps, and is accessible only through [iTunes Connect](https://itunesconnect.apple.com/). It is currently available for iOS 8.0 apps and above. TestFlight allows for beta testing with both internal and external users, and due to a Beta app review for the latter, ensures a much easier process in your final review when publishing to the App Store.
 
